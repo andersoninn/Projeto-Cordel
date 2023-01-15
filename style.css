@@ -82,11 +82,7 @@ section.imagem > p{
     text-shadow: 1px 1px 0px black;
 }
 section#img01{
-<<<<<<< HEAD
-    background-image: url('imagens/background001.jpg');
-=======
     background-image: url('../imagens/background001.jpg');
->>>>>>> 8690736e4da315696d25a47cc85931e38ee20747
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
@@ -95,11 +91,7 @@ section#img01{
 }
 
 section#img02{
-<<<<<<< HEAD
-    background-image: url('imagens/background002.jpg'); 
-=======
     background-image: url('../imagens/background002.jpg');
->>>>>>> 8690736e4da315696d25a47cc85931e38ee20747
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
